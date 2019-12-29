@@ -1,0 +1,9 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Project Discord Bot By THC",
+  "main": "main.js",
+  "repository": "https://github.com/LaSourisJaune/Heroxbotjs.git",
+  "author": "LaSourisJaune <jemangetesmortss@gmail.com>",
+  "license": "MIT"
+}
